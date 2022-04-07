@@ -34,7 +34,7 @@ int main()
 
 
     cin >> name;
-    cout << name;
+    cout << name << endl;
 
     if (i) cout << "true\n";
 
